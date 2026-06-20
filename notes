@@ -1,0 +1,25 @@
+Api Docs:https://documenter.getpostman.com/view/17788795/2sB2xEBob9
+
+
+task
+->Update password
+->Forget Password
+
+
+Login Page
+   ↓
+Forgot Password
+   ↓
+Enter Email
+   ↓
+Email Sent
+   ↓
+User Clicks Link
+   ↓
+Reset Password Page Opens
+   ↓
+Enter New Password
+   ↓
+Password Updated
+   ↓
+Navigate Login Page

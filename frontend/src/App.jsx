@@ -3,7 +3,7 @@ import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Component, lazy, Suspense } from "react";
 import VerifyOTP from "./pages/auth/otp/verifyotp";
-import PostList from "./pages/crud/post_list/postList";
+import PostList from "./pages/crud/postList/postList";
 import ProductAdd from "./pages/crud/post_add/ProductAdd";
 import ProductUpdate from "./pages/crud/product_Update/productUpdate";
 import CheckPrivateRouting from "./routes/checkPrivateRouting";
